@@ -1,0 +1,2 @@
+# timesvr
+get current time
